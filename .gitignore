@@ -48,3 +48,6 @@ liquidation_gas_plots.png
 test-coverage.json
 
 .env
+
+# For mac
+.DS_Store
